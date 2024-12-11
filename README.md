@@ -8,19 +8,20 @@ Overview‬
 ‭ chaser in order to win. Apparently, the goal of the player is to outsmart the chaser.‬
 
 ‭How to play the game‬
-‭ 1.‬‭ Start the game‬
+
+‭ 1.‬‭ Start the game‬:
  Firstly, the player is introduced to the gameplay where the game asks the player to‬
 ‭ enter there name is the provided textfield‬
 ‬‭ The game then presents two options to the player either to start the game or to view‬
 ‭ the high scores before starting the game.‬
 
-‭ 2.‬‭ Select the amount to play for‬
+‭ 2.‬‭ Select the amount to play for‬:
 ‭ The game then prompts the player to select the amount the player wants to play for‬
 ‬‭ Lower amount(£1000):‬‭ The player starts at position 4 in the ladder‬
 ‬‭ Standard amount(£7000)‬‭ : The player starts at the position 5 in the ladder‬
 ‬‭ Higher amount(£30000)‬‭ : The player starts at the position 6 in the ladder‬
 
-‭ 3.‬‭ Head to Head round‬
+‭ 3.‬‭ Head to Head round‬:
 ‬‭ The game presents a question to the player with three possible answers‬
 ‬‭ The player needs to click one out of the three options‬
 ‬‭ The player’s response is highlighted by an orange colour‬
@@ -34,7 +35,7 @@ Overview‬
 ‭ for this round.‬
 ‬‭ The player’s total money made in the rounds just played, represents their final score‬
 
-‭ 4.‬‭ Game results‬
+‭ 4.‬‭ Game results‬:
 ‬‭ After the termination of the game the results are displayed on the next screen‬
 ‭ whether the chaser won or the player‬
 ‬‭ The player can tap the Play again button in order to play the game repeatedly unless‬
@@ -45,7 +46,7 @@ Overview‬
 ‬‭ When the player loses, the exit game button button also gets enabled and the player‬
 ‭ can exit the game by tapping on the exit game button‬
 
-‭ 5.‬‭ High score table‬
+‭ 5.‬‭ High score table‬:
 ‬‭ The player can view the high score table by clicking on the view high score button‬
 ‭ either before the starting of the game or after the termination of the game.‬
 ‬‭ When the player loses and clicks the view high score button then they can view their‬
@@ -55,7 +56,9 @@ Overview‬
 ‬‭ The player can click on the Go back button present at the top left hand corner of the‬
 ‭ high score table to navigate back to the previous page‬
 
+
 ‭ Notable features‬
+
 ‭ 1.‬‭ Accumulated winnings -
 ‬‭ If the player wins multiple rounds in succession then there‬
 ‭ winnings gets accumulated in each round and if the player loses then the total score is‬
