@@ -1,6 +1,7 @@
 # The_Chase_Game_Project
 
 Overview‬
+
 ‭ Welcome to the chase game app. This app is inspired by a popular TV show “The Chase”‬
 ‭ The app functions around the head to head version of the game where a “Player” competes‬
 ‭ against the “Chaser” or the app and moves down the ladder before getting caught by the‬
