@@ -63,11 +63,13 @@ Overview‬
 ‬‭ If the player wins multiple rounds in succession then there‬
 ‭ winnings gets accumulated in each round and if the player loses then the total score is‬
 ‭ stored in the high score table‬
+
 ‭ 2.‬‭ Player friendly interface -
 ‬‭ The game provides the player with Intuitive and easy-to-use‬
 ‭ buttons and smooth transitions between game stages. The game also prompts the player to‬
 ‭ enter there name in the text field in order to display their name in the high score table along‬
 ‭ with the score‬
+
 ‭ 3.‬‭ Interactive Feedback -
 ‬‭ Each button changes colour based on the responses‬
 ‭ Orange for player’s selected response.‬
@@ -75,6 +77,7 @@ Overview‬
 ‭ Green for the correct answer.‬
 ‭ Red for incorrect options.‬
 ‭ These colours provide instant visual feedback to keep players engaged.‬
+
 ‭ 4.‬‭ Flexible Restart Options‬
 ‭ The Restart Game button takes you back to the main screen to enter a new name and start‬
 ‭ fresh.‬
